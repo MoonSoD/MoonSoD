@@ -3,7 +3,7 @@
 **I am a secondary school student of IT and Networking technologies**
  
 - 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, JS
-- 📕 Currently learning: Laravel, VueJS
+- 📕 Currently learning: Laravel, React
 - ⚡ Fun fact: My phone falls out of my pocket min. once a day while sitting on my DXRacer chair mockup
 
 <!--
