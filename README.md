@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am a secondary school student of IT and Networking technologies**
+**I am a secondary school student of IT and Networking technologies. currently working as a frontend developer**
  
 - 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS
 - 📕 Currently learning: Typescript w/ React & NodeJS
