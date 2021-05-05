@@ -2,7 +2,7 @@
 
 **I am a secondary school student of IT and Networking technologies**
  
-- 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, JS, TS
+- 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS
 - 📕 Currently learning: Typescript w/ React & NodeJS
 - ⚡ Fun fact: My phone falls out of my pocket min. once a day while sitting on my DXRacer chair mockup
 
