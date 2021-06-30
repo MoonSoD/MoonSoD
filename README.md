@@ -3,7 +3,9 @@
 **I am a secondary school student of IT and Networking technologies, currently working as a frontend developer**
  
 - 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS
-- 📕 Currently learning: Typescript w/ React & NodeJS
+- 🪟 Frameworks: Laravel, NestJS, NextJS 
+- 🔧 Tooling: Linux, Docker, IJ Idea
+- 📕 Currently learning: NextJS
 - ⚡ Fun fact: My phone falls out of my pocket min. once a day while sitting on my DXRacer chair mockup
 
 <!--
