@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am a secondary school student of IT and Networking technologies, currently working as a frontend developer**
+**I am a secondary school student of IT and Networking technologies, currently working as frontend developer**
  
 - 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS
 - 🪟 Frameworks: Laravel, NestJS, NextJS 
