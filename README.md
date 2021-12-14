@@ -5,8 +5,8 @@
 - 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS
 - 🪟 Frameworks: Laravel, NestJS, NextJS 
 - 🔧 Tooling: Linux, Docker, IJ Idea
-- 📕 Currently learning: NextJS
-- ⚡ Fun fact: My phone falls out of my pocket min. once a day while sitting on my DXRacer chair mockup
+- 📕 Currently learning: NestJS
+- ⚡ Fun fact: I don't care, literally.
 
 <!--
 **MoonSoD/MoonSoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
