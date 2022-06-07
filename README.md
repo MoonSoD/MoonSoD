@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-**I am a secondary school student of IT and Networking technologies, currently working as frontend developer**
+**I am a secondary school graduate of IT and Networking technologies, currently working as frontend developer**
  
 - 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS
 - 🪟 Frameworks: Laravel, NestJS, NextJS 
 - 🔧 Tooling: Linux, Docker, IJ Idea
-- 📕 Currently learning: NestJS
+- 📕 Currently learning: VueJS
 - ⚡ Fun fact: I don't care, literally.
 
 <!--
