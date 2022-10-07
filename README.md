@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-**I am a secondary school graduate of IT and Networking technologies, currently working as frontend developer**
+**I am a Computer Science student at VŠB-TUO, currently working as fullstack developer**
  
 - 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS
-- 🪟 Frameworks: Laravel, NestJS, NextJS 
+- 🪟 Frameworks: Laravel, NestJS, NextJS, React, VueJS, Qwik
 - 🔧 Tooling: Linux, Docker, IJ Idea
 - 📕 Currently learning: VueJS
 - ⚡ Fun fact: I don't care, literally.
