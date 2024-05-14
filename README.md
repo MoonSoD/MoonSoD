@@ -2,9 +2,9 @@
 
 **I am a Computer Science student at VŠB-TUO, currently working as fullstack developer**
  
-- 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS
+- 🧠 Languages: Java, PHP, C++, SQL, HTML, CSS, SASS, JS, TS, Python
 - 🪟 Frameworks: Laravel, NestJS, NextJS, React, VueJS, Qwik
-- 🔧 Tooling: Linux, Docker, IJ Idea
+- 🔧 Tooling: Linux, Docker, VSCode, IJ Idea
 - 📕 Currently learning: VueJS
 - ⚡ Fun fact: I don't care, literally.
 
